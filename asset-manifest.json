@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/album-searcher-app-react/static/css/main.e6c13ad2.css",
+    "main.js": "/album-searcher-app-react/static/js/main.6cb4ff13.js",
+    "static/js/453.633ccf27.chunk.js": "/album-searcher-app-react/static/js/453.633ccf27.chunk.js",
+    "index.html": "/album-searcher-app-react/index.html",
+    "main.e6c13ad2.css.map": "/album-searcher-app-react/static/css/main.e6c13ad2.css.map",
+    "main.6cb4ff13.js.map": "/album-searcher-app-react/static/js/main.6cb4ff13.js.map",
+    "453.633ccf27.chunk.js.map": "/album-searcher-app-react/static/js/453.633ccf27.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.6cb4ff13.js"
+  ]
+}
