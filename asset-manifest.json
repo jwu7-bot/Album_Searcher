@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/album-searcher-app-react/static/css/main.e6c13ad2.css",
-    "main.js": "/album-searcher-app-react/static/js/main.6cb4ff13.js",
-    "static/js/453.633ccf27.chunk.js": "/album-searcher-app-react/static/js/453.633ccf27.chunk.js",
-    "index.html": "/album-searcher-app-react/index.html",
-    "main.e6c13ad2.css.map": "/album-searcher-app-react/static/css/main.e6c13ad2.css.map",
-    "main.6cb4ff13.js.map": "/album-searcher-app-react/static/js/main.6cb4ff13.js.map",
-    "453.633ccf27.chunk.js.map": "/album-searcher-app-react/static/js/453.633ccf27.chunk.js.map"
+    "main.css": "/Album_Searcher/static/css/main.e6c13ad2.css",
+    "main.js": "/Album_Searcher/static/js/main.176f439f.js",
+    "static/js/453.633ccf27.chunk.js": "/Album_Searcher/static/js/453.633ccf27.chunk.js",
+    "index.html": "/Album_Searcher/index.html",
+    "main.e6c13ad2.css.map": "/Album_Searcher/static/css/main.e6c13ad2.css.map",
+    "main.176f439f.js.map": "/Album_Searcher/static/js/main.176f439f.js.map",
+    "453.633ccf27.chunk.js.map": "/Album_Searcher/static/js/453.633ccf27.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.6cb4ff13.js"
+    "static/js/main.176f439f.js"
   ]
 }
